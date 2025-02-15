@@ -5,7 +5,7 @@
     "@truffle/decoder": "6.1.5",
     "electron": "^26.6.10",
     "electron-fetch": "1.7.3",
-    "fs-extra": "9.0.0",
+    "fs-extra": "11.3.0",
     "ganache": "7.9.1",
     "ganache-core": "2.13.1",
     "lodash.clonedeep": "4.5.0",
